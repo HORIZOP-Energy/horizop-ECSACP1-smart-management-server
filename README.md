@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # SmartHomeServer
 Smarthome backend and frontend
 
@@ -30,6 +29,3 @@ Smarthome backend and frontend
 ### Backend:
 - pure Kotlin - no Spring
 - Jetty / WebSockets
-=======
-# AC-Prototype-1
->>>>>>> f7dac7b3766876ff189595191c5bf3d079e51b4e
