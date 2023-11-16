@@ -1,5 +1,4 @@
-# SmartHomeServer
-Smarthome backend and frontend
+# HORIZOP Energy's EV Charging Station AC Prototype 1 Smart Management Server
 
 <img src="docs/main_menu.png" width="200">
 
