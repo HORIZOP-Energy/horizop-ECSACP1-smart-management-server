@@ -1,5 +1,7 @@
 # HORIZOP Energy's EV Charging Station AC Prototype 1 Smart Management Server
 
+> **Note:** The source code and/or materials in this repository are the intellectual property of HORIZOP Energy and is displayed here for demonstration purposes only. All rights are reserved.
+
 <img src="docs/main_menu.png" width="200">
 
 ### Features:
